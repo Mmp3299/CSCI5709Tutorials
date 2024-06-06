@@ -67,7 +67,7 @@ const RegistrationForm = () => {
         <div className="form-group">
           <div>
             <label htmlFor="email">Email:</label>
-            <input type="email" id="email" name="email" value={formValues.email} onChange={handleChange} required />
+            <input id="email" name="email" value={formValues.email} onChange={handleChange} required />
           </div>
           <div>
             <label htmlFor="password">Password:</label>

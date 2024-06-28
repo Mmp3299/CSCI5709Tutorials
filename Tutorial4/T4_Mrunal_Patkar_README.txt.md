@@ -1,9 +1,9 @@
-# Tutorial 3
+# Tutorial 4
 
-This tutorial revolves around creating a user registration form in React with custom validation logic and error messages
+This tutorial revolves around creating a login page to log in to search and check user details
 
-- _Date Created_: 6 June 2024
-- _Last Modification Date_: 6 June 2024
+- _Date Created_: 27 June 2024
+- _Last Modification Date_: 27 June 2024
 - _Deployment URL_: [Netlify Deployment Link](https://csci5709tutorial4mrunal.netlify.app/)
 - _GitHub URL_: [GitHub Repository Link](https://github.com/Mmp3299/CSCI5709Tutorials)
 - _GitLab URL_: [GitLab Repository Link](https://git.cs.dal.ca/patkar/CSCI5709Tutorials/-/tree/main)
